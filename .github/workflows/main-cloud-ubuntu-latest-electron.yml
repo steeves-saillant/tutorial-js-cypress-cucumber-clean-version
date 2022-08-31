@@ -5,11 +5,11 @@ name: CI with Xray cloud instance
 
 on:
   push:
-    branches: [ main ]
+    branches: [ dev-ubuntu-electron ]
   pull_request:
-    branches: [ main ]
+    branches: [ dev-ubuntu-electron ]
   workflow_dispatch:
-    branches: [ main ]
+    branches: [ dev-ubuntu-electron ]
 
 jobs:
   build:
