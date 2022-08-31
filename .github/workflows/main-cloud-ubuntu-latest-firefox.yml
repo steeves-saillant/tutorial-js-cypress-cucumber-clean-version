@@ -5,11 +5,11 @@ name: CI with Xray cloud instance
 
 on:
   push:
-    branches: [ main ]
+    branches: [ dev-ubuntu-firefox ]
   pull_request:
-    branches: [ main ]
+    branches: [ dev-ubuntu-firefox ]
   workflow_dispatch:
-    branches: [ main ]
+    branches: [ dev-ubuntu-firefox ]
 
 jobs:
   build:
