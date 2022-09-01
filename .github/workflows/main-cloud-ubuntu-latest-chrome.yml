@@ -8,8 +8,8 @@ on:
     branches: [ dev-ubuntu-chrome ]
   pull_request:
     branches: [ dev-ubuntu-chrome ]
- # workflow_dispatch:
- #   branches: [ dev-ubuntu-chrome ]
+  workflow_dispatch:
+    branches: [ dev-ubuntu-chrome ]
 
 jobs:
   build:
