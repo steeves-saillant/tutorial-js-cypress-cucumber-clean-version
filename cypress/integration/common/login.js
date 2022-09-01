@@ -7,15 +7,18 @@ Given(/^browser is openened to the login page$/, () => {
 });
 
 When('user {string} logs in with password {string}', (username, password) => {
+  throw new Error("Pending Implementation");
   //LoginPage.enter_username(username);
   //LoginPage.enter_password(password);
   //LoginPage.pressLogin();
 });
 
 Then(/^welcome page should be opened$/, () => {
+  throw new Error("Pending Implementation");
     //LoginResultsPage.expect().toBeSuccessful();
   });
 
 Then(/^error page should be open$/, () => {
+  throw new Error("Pending Implementation");
     //LoginResultsPage.expect().toBeUnsuccessful();
   });
