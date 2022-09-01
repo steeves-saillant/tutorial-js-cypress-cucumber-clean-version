@@ -1,4 +1,3 @@
-@AQADX-30
 @REQ_AQADX-3
 Feature: Authentification
 
