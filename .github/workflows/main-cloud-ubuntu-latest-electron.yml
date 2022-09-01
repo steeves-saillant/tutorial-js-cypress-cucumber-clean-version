@@ -8,8 +8,8 @@ on:
     branches: [ dev-ubuntu-electron ]
   pull_request:
     branches: [ dev-ubuntu-electron ]
-  #workflow_dispatch:
-  #  branches: [ dev-ubuntu-electron ]
+  workflow_dispatch:
+    branches: [ dev-ubuntu-electron ]
 
 jobs:
   build:
