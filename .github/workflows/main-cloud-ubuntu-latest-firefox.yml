@@ -8,8 +8,8 @@ on:
     branches: [ dev-ubuntu-firefox ]
   pull_request:
     branches: [ dev-ubuntu-firefox ]
- # workflow_dispatch:
- #   branches: [ dev-ubuntu-firefox ]
+  workflow_dispatch:
+    branches: [ dev-ubuntu-firefox ]
 
 jobs:
   build:
