@@ -2,6 +2,10 @@
 
 FR - Ce fork n'a conservé que la prise en charge du cloud Jira pour Server DC (comme un Jira sur site, veuillez vérifier le code d'origine à partir duquel ce fork a été forké.
 
+# Le readme original est en anglais plus bas. # Ici probablement seulement la version cloud fonctionnera sans modifications.
+# Ce code # fait parti d'une démo qui sera donne le 9 septembre a l’équipe de coaching d'Alithya Inc.
+# Ce code viens tel que et Alithya Inc ne garanti aucunement ce code ce n'est qu'un exemple d'apprentissage.
+
 # Tutorial with Cypress tests, in JavaScript, using Cucumber, integrated with Xray
 
 [![build workflow](https://github.com/Xray-App/tutorial-js-cypress-cucumber/actions/workflows/main-cloud.yml/badge.svg)](https://github.com/Xray-App/tutorial-js-cypress-cucumber/actions/workflows/main-cloud.yml)
