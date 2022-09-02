@@ -13,9 +13,9 @@ When('user {string} logs in with password {string}', (username, password) => {
 });
 
 Then(/^welcome page should be opened$/, () => {
-    throw new Error("Pending implementation");
+  //  throw new Error("Pending implementation");
   });
 
 Then(/^error page should be open$/, () => {
-  throw new Error("Pending implementation");
+  //throw new Error("Pending implementation");
 });
